@@ -1,2 +1,4 @@
-node_modules
-google.png
+node_modules/
+package-lock.json
+*.png
+.env

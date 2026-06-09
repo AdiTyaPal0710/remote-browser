@@ -1,0 +1,13 @@
+{
+  "name": "bld-browser-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "engine.js",
+  "scripts": {
+    "start": "node engine.js"
+  },
+  "dependencies": {
+    "puppeteer": "^25.1.0",
+    "ws": "^8.21.0"
+  }
+}
